@@ -3,7 +3,7 @@
 
 print("Hoşgeldiniz! Lütfen aşağıdaki seçeneklerden birini seçin:")
 
-# Pizza Boyutu Seçimi
+# Pizza Seçimi
 print("\nLütfen pizza boyutunu seçin:")
 print("1 - Klasik")
 print("2 - Margarita")
